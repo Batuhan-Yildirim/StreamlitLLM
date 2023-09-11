@@ -1,0 +1,9 @@
+pandas
+numpy
+streamlit
+streamlit_extras
+plotly
+re
+yfinance
+openai
+langchain
